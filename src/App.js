@@ -1,8 +1,7 @@
-import Search from "./components/Search";
-import "./App.css";
+import Todo from "./components/Todo";
 
 const App = () => {
-  return <Search />;
+  return <Todo />;
 };
 
 export default App;
